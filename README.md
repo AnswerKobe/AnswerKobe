@@ -58,9 +58,8 @@ Here are some ideas to get you started:
 - [技术笔记](https://zhousiwei.gitee.io/ibooks/)
 - [CSDN](https://zhousiwei.blog.csdn.net/)
 - [微博](http://weibo.com/jayinfo)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnswerKobe&repo=github-readme-stats" />
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnswerKobe&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 > ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊***
 
