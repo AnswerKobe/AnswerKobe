@@ -19,7 +19,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats)
-
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
