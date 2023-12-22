@@ -19,12 +19,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
-<table border=0>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
-  </tr>
-</table>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span>
 
