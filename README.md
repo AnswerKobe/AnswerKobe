@@ -21,18 +21,17 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical) 
+<span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span> -->
 
 
-https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave) -->
 
 <!-- <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span>
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span> -->
+
 
