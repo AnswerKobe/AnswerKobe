@@ -15,5 +15,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 
+<h3 align="center">Thanks for visiting my GitHub :-) Wish you have a good time here! 🎉 Please continue your visit ↓</h3>
+
+
 
 
