@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
+
 
 ### _Hi there 👋, I'm Answerkobe._
 
